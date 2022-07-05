@@ -21,7 +21,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size (Not done yet)
 - See hover and focus states for interactive elements
 
 ### Screenshot
@@ -52,7 +51,7 @@ Users should be able to:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will later make the card responsive so it will also looks nice in mobile device's layout.
 
 ## Author
 
