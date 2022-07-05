@@ -13,7 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Feedback](#feedback-request)
 
 ## Overview
 
@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution in Frontend Mentor]()
+- Live Site URL: [Live site Preview Card](dea-preview-card.netlify.app)
 
 ## My process
 
@@ -46,7 +46,8 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- How to use center a div with Flexbox
+- How to implement ```display: inline-block```
 
 
 ### Continued development
@@ -56,10 +57,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Dea Ananda Gunawan](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@hellow_zz](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/peperoxyz)
+- Twitter - [@hellow_zz](https://www.twitter.com/hellow_zz)
 
 
-## Acknowledgments
+## Feedback Request
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I've tried my best to code it so it looks exactly the same as how it's designed. But I would be so happy if you want to look at it and give me some feedbacks and advices for some things that could've done in a better way! (Please let me know! :D)
