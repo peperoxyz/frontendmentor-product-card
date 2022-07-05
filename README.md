@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution in Frontend Mentor]()
-- Live Site URL: [Live site Preview Card](dea-preview-card.netlify.app)
+- Live Site URL: [Live site Preview Card](https://dea-preview-card.netlify.app)
 
 ## My process
 
@@ -56,11 +56,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Dea Ananda Gunawan](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/peperoxyz)
+- Website - [Dea Ananda Gunawan](https://deaportfolio-recap.super.site)
+- Frontend Mentor - [@peperoxyz](https://www.frontendmentor.io/profile/peperoxyz)
 - Twitter - [@hellow_zz](https://www.twitter.com/hellow_zz)
 
 
 ## Feedback Request
 
-I've tried my best to code it so it looks exactly the same as how it's designed. But I would be so happy if you want to look at it and give me some feedbacks and advices for some things that could've done in a better way! (Please let me know! :D)
+I've tried my best to code it so it looks exactly the same as how it's designed. But I would be happy if you want to look at it and give me some feedbacks and advices for some things that could've done in a better way! (Please let me know! :D)
