@@ -4,7 +4,6 @@ body {
   background-color: hsl(30, 38%, 92%);
 }
 .card {
-  background-color: white;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -13,7 +12,6 @@ body {
   display: flex;
   width: 616px;
   height: 490px;
-  border-radius: 13px;
 }
 
 .card img {
@@ -24,6 +22,7 @@ body {
 }
 
 .flex-text {
+  background-color: white;
   padding: 24px 34px 34px 34px;
 }
 
@@ -104,4 +103,54 @@ a {
 a + .dea {
   padding: 0px 5px 0 3px;
   color: hsl(30, 38%, 92%);
+}
+
+
+
+@media screen and (max-width: 375px) {
+  .container-card {
+    padding: 200px;
+  }
+  .attribution{
+    display: none;
+  }
+  .card {
+    left: 205px;
+    display: inline-block;
+    width: 100%;
+  }
+
+  .card img {
+    width: 100%;
+    object-fit: cover;
+    height: 250px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-left-radius: 0;
+  }
+
+  .flex-text {
+    margin-top: -5px;
+    background-color: white;
+    padding: 4px 24px 24px 24px;
+  }
+
+  .perfume {
+    color: hsl(228, 12%, 48%);
+    letter-spacing: 6px;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .flex-text .heading-copy {
+    font-family: "Fraunces", serif;
+    line-height: 33px;
+    margin-top: -7px;
+  }
+
+  .flex-text .body-copy {
+    font-family: "Montserrat", sans-serif;
+    font-size: 13px;
+    line-height: 24px;
+    color: hsl(228, 12%, 48%);
+  }
 }
