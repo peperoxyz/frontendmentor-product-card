@@ -39,19 +39,22 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS position
+- CSS Box Model
 - Flexbox
+- CSS Media Query
 - Mobile-first workflow
 
 ### What I learned
 
 - How to use center a div with Flexbox
 - How to implement ```display: inline-block```
+- How to use CSS media query for mobile view
 
 
 ### Continued development
 
-I will later make the card responsive so it will also looks nice in mobile device's layout.
+v1 - I will later make the card responsive so it will also looks nice in mobile device's layout(DONE!).
+v1.1 - I finished the mobile device's layout so it's already responsive. Will might be get some changes due to CSS best practices.
 
 ## Author
 
