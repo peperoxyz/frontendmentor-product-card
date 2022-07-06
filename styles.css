@@ -1,108 +1,107 @@
-      @import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700;100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
 
-      body {
-        background-color: hsl(30, 38%, 92%);
-      }
-      .card {
-        background-color: white;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        margin-right: -50%;
-        transform: translate(-50%, -50%);
-        display: flex;
-        width: 615px;
-        height: 490px;
-        border-radius: 13px;
-      }
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+.card {
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  width: 616px;
+  height: 490px;
+  border-radius: 13px;
+}
 
-      .card img {
-        width: 309.5px;
-        height: 490px;
-        border-top-left-radius: 13px;
-        border-bottom-left-radius: 13px;
-      }
+.card img {
+  width: 308px;
+  height: 490px;
+  border-top-left-radius: 13px;
+  border-bottom-left-radius: 13px;
+}
 
-      .flex-text {
-        padding: 25px;
-      }
+.flex-text {
+  padding: 24px 34px 34px 34px;
+}
 
-      .perfume {
-        color: hsl(228, 12%, 48%);
-        letter-spacing: 6px;
-        font-family: "Montserrat", sans-serif;
-      }
+.perfume {
+  color: hsl(228, 12%, 48%);
+  letter-spacing: 6px;
+  font-family: "Montserrat", sans-serif;
+}
 
-      .flex-text .heading-copy {
-        font-family: "Fraunces", serif;
-        line-height: 33px;
-      }
+.flex-text .heading-copy {
+  font-family: "Fraunces", serif;
+  line-height: 33px;
+}
 
-      .flex-text .price {
-        position: relative;
-        font-family: "Fraunces", serif;
-        color: hsl(158, 36%, 37%);
-        font-size: 30px;
-        display: inline-block;
-        margin: 15px 0 15px 0;
-        line-height: 33px;
-      }
+.flex-text .price {
+  position: relative;
+  font-family: "Fraunces", serif;
+  color: hsl(158, 36%, 37%);
+  font-size: 30px;
+  display: inline-block;
+  margin: 15px 0 15px 0;
+  line-height: 33px;
+}
 
-      .flex-text small {
-        margin: 23px;
-        position: absolute;
-        display: inline-block;
-        text-decoration: line-through;
-        font-family: "Montserrat", sans-serif;
-        color: hsl(228, 12%, 48%);
-      }
+.flex-text small {
+  margin: 23px;
+  position: absolute;
+  display: inline-block;
+  text-decoration: line-through;
+  font-family: "Montserrat", sans-serif;
+  color: hsl(228, 12%, 48%);
+}
 
-      .flex-text .body-copy {
-        font-family: "Montserrat", sans-serif;
-        font-size: 14px;
-        line-height: 24px;
-        color: hsl(228, 12%, 48%);
-      }
+.flex-text .body-copy {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  color: hsl(228, 12%, 48%);
+}
 
-      .cart {
-        color: white;
-        font-family: "Montserrat", sans-serif;
-        font-weight: 700;
-        border: none;
-        height: 50px;
-        border-radius: 8px;
-        background-color: hsl(158, 36%, 37%);
-        width: 99%;
-      }
+.cart {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  border: none;
+  height: 50px;
+  border-radius: 8px;
+  background-color: hsl(158, 36%, 37%);
+  width: 99%;
+}
 
-      .cart:hover {
-        background-color: hsl(158, 36%, 17%);
-      }
+.cart:hover {
+  background-color: hsl(158, 36%, 17%);
+}
 
-      .b-cart {
-        display: flex;
-        justify-content: center;
-      }
+.b-cart {
+  display: flex;
+  justify-content: center;
+}
 
-      .b-cart span {
-        margin-left: 6px;
-      }
+.b-cart span {
+  margin-left: 6px;
+}
 
-      .attribution{
-        color: hsl(158, 36%, 37%);
-        font-family: "Montserrat";
-        display: flex;
-        margin-top: 70px;
-        justify-content: center;
-        
-      }
+.attribution {
+  color: hsl(158, 36%, 37%);
+  font-family: "Montserrat";
+  margin-top: 70px;
+  text-align: center;
+  font-weight: 700;
+}
 
-      a {
-        text-decoration: none;
-        color: hsl(18, 36%, 37%);
-      }
+a {
+  text-decoration: none;
+  color: hsl(18, 36%, 37%);
+}
 
-      a+.dea {
-        padding: 0px 5px 0 3px;
-        color:hsl(30, 38%, 92%);
-      }
+a + .dea {
+  padding: 0px 5px 0 3px;
+  color: hsl(30, 38%, 92%);
+}
