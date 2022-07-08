@@ -137,6 +137,7 @@ a + .dea {
   }
 
   .perfume {
+    font-size: 1px;
     color: hsl(228, 12%, 48%);
     letter-spacing: 6px;
     font-family: "Montserrat", sans-serif;
