@@ -10,20 +10,22 @@ body {
   margin-right: -50%;
   transform: translate(-50%, -50%);
   display: flex;
-  width: 616px;
-  height: 490px;
+  width: 600px;
+  height: 450px;
 }
 
 .card img {
-  width: 308px;
-  height: 490px;
+  /* width: 308px; */
+  height: 450px;
   border-top-left-radius: 13px;
   border-bottom-left-radius: 13px;
 }
 
 .flex-text {
   background-color: white;
-  padding: 24px 34px 34px 34px;
+  padding: 10px 34px 34px 34px;
+  border-top-right-radius: 13px;
+  border-bottom-right-radius: 13px;
 }
 
 .perfume {
@@ -105,13 +107,11 @@ a + .dea {
   color: hsl(30, 38%, 92%);
 }
 
-
-
 @media screen and (max-width: 375px) {
   .container-card {
     padding: 200px;
   }
-  .attribution{
+  .attribution {
     display: none;
   }
   .card {
@@ -130,9 +130,10 @@ a + .dea {
   }
 
   .flex-text {
-    margin-top: -5px;
     background-color: white;
-    padding: 4px 24px 24px 24px;
+    padding: 10px 20px 34px 20px;
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
   }
 
   .perfume {
